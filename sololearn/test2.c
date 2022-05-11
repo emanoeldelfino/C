@@ -1,3 +1,4 @@
+// Compile error
 #include <stdio.h>
 
 int main() {
@@ -9,4 +10,3 @@ int main() {
         printf("Successful");
     return 0;
 }
-
